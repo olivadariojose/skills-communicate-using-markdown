@@ -5,3 +5,7 @@
 ''' javascript
 const myVar= "Hello Wordl"
 '''
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
